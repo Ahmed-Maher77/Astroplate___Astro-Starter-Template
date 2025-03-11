@@ -1,0 +1,24 @@
+{
+  "main": [
+    {
+      "name": "facebook",
+      "icon": "FaFacebook",
+      "link": "https://web.facebook.com/profile.php?id=100012154268952"
+    },
+    {
+      "name": "portfolio",
+      "icon": "FaBriefcase",
+      "link": "https://ahmedmaher-portfolio.vercel.app/"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://github.com/Ahmed-Maher77"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/in/ahmed-maher-algohary"
+    }
+  ]
+}
